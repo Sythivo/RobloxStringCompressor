@@ -1,5 +1,5 @@
 # RobloxStringCompressor
-Fastest string compressor for the roblox platform, powered by Roblox API.
+Fastest string compressor for the roblox platform, powered by Roblox API. Credits goes to roblox for making this entirely possible.
 
 ## Example
 ```lua
