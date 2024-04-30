@@ -1,0 +1,21 @@
+{
+  "name": "@sythivo/robloxstringcompressor",
+  "version": "0.1.0",
+  "description": "",
+  "main": "src/init.lua",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "sythivo",
+  "license": "ISC",
+  "types": "types/index.d.ts",
+  "files": [
+    "src",
+    "types"
+  ],
+  "devDependencies": {
+    "@rbxts/compiler-types": "^2.3.0-types.1",
+    "@rbxts/types": "^1.0.773"
+  }
+}
