@@ -1,8 +1,9 @@
 {
   "name": "@sythivo/robloxstringcompressor",
-  "version": "0.1.0-1",
+  "version": "0.1.0-2",
   "description": "",
   "main": "src/init.lua",
+  "repository": "https://github.com/Sythivo/RobloxStringCompressor.git",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
